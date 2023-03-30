@@ -60,7 +60,7 @@ spec:
     spec:
       containers:
       - name: springappcontainer
-        image: ppollai/spring-boot-mongo
+        image: nileshpisal/virtinux
         ports:
         - containerPort: 8080
         env:
